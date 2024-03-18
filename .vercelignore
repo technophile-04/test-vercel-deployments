@@ -21,10 +21,6 @@ packages/nextjs/.pnp.js
 # testing
 packages/nextjs/coverage
 
-# next.js
-packages/nextjs/.next/
-packages/nextjs/out/
-
 # production
 packages/nextjs/build
 
